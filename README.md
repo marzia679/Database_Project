@@ -1,5 +1,5 @@
 # Database_Project
-A PHP Quiz WebApp
+A PHP, MySQL Quiz WebApp
 
 Steps to run the project 'quizzer' :
 
