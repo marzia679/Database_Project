@@ -9,7 +9,7 @@ Steps to run the project 'quizzer' :
 4. Copy and paste the url into your browser-
    http://localhost/phpmyadmin
 5. Select 'new' to create a new database, database name 'quizzer'
-6. Select the database 'quizzer'and import quizzer.sql file (quizzer.sql file is located inside the project folder 'quizzer': quizzer -> database -> quizzer.sql)
+6. Select the database 'quizzer'and import quizzer.sql file (quizzer.sql file is located inside the project folder 'quizzer': database -> quizzer.sql)
 7. Now to run the web app, copy and paste the url into your browser-
    http://localhost/quizzer/index.php
 8. To add new question-
